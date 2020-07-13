@@ -1,4 +1,4 @@
-# MORED
+MORED
 a MORoccan buildings’ Electricity consumption Dataset
 
 MORED is the first public dataset of Moroccan buildings' electricity consumption.  It contains labelled WP and IL ground-truth consumption data acquired at 1/5[S/s] rates, labelled IL signatures acquired at 50k[S/s] and 4[S/s], and WP consumption data acquired at 1/5[S/s] or 1/10[S/s] rates. The aim for providing such a dataset is to continue the progress that the field of energy disaggregation knew in the previous decade, by providing a dataset that has more data and utilises the field's recent advances.
@@ -9,11 +9,12 @@ MORED offers the following consumption data:
 * Labelled WP and IL goround-truth electricity consumption
 
                                                            |                                   Properties                                       |
-| Properties   |                                           | 1              | 2              | 3              | 4              | 5              |
+                                                           --------------------------------------------------------------------------------------
+|                     Properties                           | 1              | 2              | 3              | 4              | 5              |
 |--------------|-------------------------------------------|----------------|----------------|----------------|----------------|----------------|
-| Premises     | Affluent neighborhood apartment           |                |                |                |                |                |
-|              | Affluent neighborhood semi-detached house |                |                |                |                |                |
-|              | Disadvantageous neighborhood apartment    | \cmark         | \cmark         | \cmark         | \cmark         | \cmark         |
+| Premises     | Affluent neighborhood apartment           | [ ]            | [ ]            | [ ]            | [ ]            | [ ]            |
+|              | Affluent neighborhood semi-detached house | [ ]            | [ ]            | [ ]            | [ ]            | [ ]            |
+|              | Disadvantageous neighborhood apartment    | [x]            | [x]            | [x]            | [x]            | [x]            |
 |              | City                                      | Sala al jadida | Sala al jadida | Sala al jadida | Sala al jadida | Sala al jadida |
 |              | Number of occupants                       | 2              | 3              | 8              | 4              | 2              |
 |              | Number of elderly (>65)                   | 0              | 0              | 0              | 0              | 2              |
