@@ -3,14 +3,12 @@ a MORoccan buildings’ Electricity consumption Dataset
 
 During  spring  and  summer  of  2019  and  2020,  a  dataacquisition campaign was conducted to collect data reflectingthe  electricity  consumption  of  different  urban  premises  indifferent Moroccan cities. MORED is the first public dataset of Moroccan buildings' electricity consumption.  It contains labelled WP and IL ground-truth consumption data, labelled IL signatures, and WP consumption data of several Morccan households and Loads. The aim for providing such a dataset is to continue the progress that the field of energy disaggregation knew in the previous decade, by providing a dataset that has more data and utilises the field's recent advances.
 
-![The three different types of the electricity consumption data contained in MORED](/Image11.jpg)
+![The three different types of the electricity consumption data contained in MORED](/Image1.jpg)
 
 MORED offers the following consumption data:
 * Labelled WP and IL goround-truth electricity consumption
 
-                                                           |                                   Properties                                       |
-                                                           --------------------------------------------------------------------------------------
-|                     Properties                           | 1              | 2              | 3              | 4              | 5              |
+|                     Properties                           | Premises 1     | Premises 2     | Premises 3     |  Premises 4    | Premises 5     |
 |--------------|-------------------------------------------|----------------|----------------|----------------|----------------|----------------|
 | Premises     | Affluent neighborhood apartment           | [ ]            | [ ]            | [ ]            | [ ]            | [ ]            |
 |              | Affluent neighborhood semi-detached house | [ ]            | [ ]            | [ ]            | [ ]            | [ ]            |
@@ -35,3 +33,4 @@ M. A. Ahajjam, D. Licea-Bonilla, M. Ghogho, and A. Kobbane, "MORED: a MORoccan b
 
 **DOWNLOAD**
 * [WP data](https://www.uir.ac.ma/) 
+
