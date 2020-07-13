@@ -7,6 +7,7 @@ MORED is the first public dataset of Moroccan buildings' electricity consumption
 
 MORED offers the following consumption data:
 * Labelled WP and IL goround-truth electricity consumption
+
                                                            |                                   Properties                                       |
 | Properties   |                                           | 1              | 2              | 3              | 4              | 5              |
 |--------------|-------------------------------------------|----------------|----------------|----------------|----------------|----------------|
@@ -32,4 +33,4 @@ For more information about the dataset, please refer to the paper:
 M. A. Ahajjam, D. Licea-Bonilla, M. Ghogho, and A. Kobbane, "MORED: a MORoccan buildings’ Electricity consumption Dataset".
 
 **DOWNLOAD**
-* (WP data)[https://www.uir.ac.ma/] 
+* [WP data](https://www.uir.ac.ma/) 
