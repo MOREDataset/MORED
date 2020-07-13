@@ -7,6 +7,7 @@ During  spring  and  summer  of  2019  and  2020,  a  dataacquisition campaign w
 MORED offers the following consumption data:
 * Labelled WP and IL goround-truth electricity consumption
 
+
 |                     Properties                           | Premises 1     | Premises 2     | Premises 3     |  Premises 4    | Premises 5     |
 |--------------|-------------------------------------------|----------------|----------------|----------------|----------------|----------------|
 | Premises     | Affluent neighborhood apartment           | [ ]            | [ ]            | [ ]            | [ ]            | [ ]            |
