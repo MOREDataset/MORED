@@ -32,5 +32,11 @@ For more information about the dataset, please refer to the paper:
 M. A. Ahajjam, D. Licea-Bonilla, M. Ghogho, and A. Kobbane, "MORED: a MORoccan buildings’ Electricity consumption Dataset".
 
 **DOWNLOAD**
-* [WP data](https://www.uir.ac.ma/) 
+* WP data
+** [Premises 1](https://drive.google.com/file/d/1V9t0CF1re0DFHXqDDa9hba87DNaB3Nvm/view?usp=sharing)
+** [Premises 2](https://drive.google.com/file/d/1Th8jFVNpv2K-81KezYgHJSmvq93jNl7i/view?usp=sharing)
+** [Premises 3](https://drive.google.com/file/d/1H8_IHfaVBkwfahQpqUzlHbbPLfDBMmhN/view?usp=sharing)
+** [Premises 4](https://drive.google.com/file/d/1niSxTd3dfrNKo9w4-S41XtU1_bF-br73/view?usp=sharing)
+** [Premises 5](https://drive.google.com/file/d/1J1Eu2VfMRNQKxOlRmF3FY6Z_ZjHcW5TW/view?usp=sharing)
+
 
