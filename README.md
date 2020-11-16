@@ -19,7 +19,7 @@ For more information about the dataset, please refer to the paper:
 M. A. Ahajjam, D. Licea-Bonilla, M. Ghogho, and A. Kobbane, "MORED: a MORoccan buildings’ Electricity consumption Dataset".
 
 # DOWNLOAD
-* **WPILGT data**
+## **WPILGT data**
   * _Apartment in a disadvantageous neighbourhood_
     * [Premises 1](https://drive.google.com/drive/folders/1zWr04V7ep8GxawXsVvhh4MdIZwq5X_d7?usp=sharing)
     * [Premises 3](https://drive.google.com/drive/folders/1HaGMTDxbNj6zcs-ZGN06uXtWrteH0rGk?usp=sharing)
@@ -30,7 +30,7 @@ M. A. Ahajjam, D. Licea-Bonilla, M. Ghogho, and A. Kobbane, "MORED: a MORoccan b
     * [Premises 5](https://drive.google.com/drive/folders/1jfJSoQrNkPHKF08UhJvUbn33A0cPpByF?usp=sharing)
     * [Premises 6](https://drive.google.com/drive/folders/1KSk8HO0wgxMvQxkfyY1Pf7NlRbnUSyvb?usp=sharing)
 
-* **WP data**
+## **WP data**
   * _Apartment in a disadvantageous neighbourhood_
     * [Premises 1](https://drive.google.com/file/d/1V9t0CF1re0DFHXqDDa9hba87DNaB3Nvm/view?usp=sharing)
     * [Premises 2](https://drive.google.com/file/d/1Th8jFVNpv2K-81KezYgHJSmvq93jNl7i/view?usp=sharing)
