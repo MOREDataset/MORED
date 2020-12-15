@@ -1,4 +1,17 @@
-theme: jekyll-theme-dinky
-# <h1 align="center">
-#   <img src="/Header1.jpg" />
-# </h1>
+# --- Required options --- #
+
+# Name of website
+title: MORED
+
+# Your name to show in the footer
+author: TICLab, International University of Rabat
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
+  
