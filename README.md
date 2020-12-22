@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/Header1.jpg" />
+  <img src="Header1.jpg" />
 </h1>
 
 # Brief Description
@@ -7,7 +7,7 @@
 During  spring  and  summer  of  2019  and  2020,  a  dataacquisition campaign was conducted to collect data reflectingthe  electricity  consumption  of  different  urban  premises  indifferent Moroccan cities. MORED is the first public dataset of Moroccan buildings' electricity consumption.  It contains labelled WP and IL ground-truth consumption data, labelled IL signatures, and WP consumption data of several Morccan households and Loads. The aim for providing such a dataset is to continue the progress that the field of energy disaggregation knew in the previous decade, by providing a dataset that has more data and utilises the field's recent advances.
 
 <p align="center">
-  <img src="/Image1.jpg" />
+  <img src="Image1.jpg" />
 </p>
 
 MORED offers the following consumption data:
