@@ -11,11 +11,4 @@ author: TICLab, International University of Rabat
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  
-<h1 align="center">
-  <img src="Header1.jpg" />
-</h1>
-
+  Author's home: "https://moredataset.github.io/MORED/"
