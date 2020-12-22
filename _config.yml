@@ -12,3 +12,5 @@ navbar-links:
   About Me: "aboutme"
   Resources:
   Author's home: "https://moredataset.github.io/MORED/"
+
+theme: jekyll-theme-cayman
