@@ -16,7 +16,7 @@ MORED offers the following consumption data:
 * IL signatures 
 
 For more information about the dataset, please refer to the paper:
-M. A. Ahajjam, D. Licea-Bonilla, M. Ghogho, and A. Kobbane, "MORED: a MORoccan buildings’ Electricity consumption Dataset".
+Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
 
 # DOWNLOAD
 ## **WPILGT data**
