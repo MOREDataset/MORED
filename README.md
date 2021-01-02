@@ -42,6 +42,7 @@ Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A
     * [Premises 6](https://drive.google.com/file/d/1ept4Kbbei_czsGdMwCbg59bS2biBlhlx/view?usp=sharing)
   * _Apartment in an affluent neighbourhood_
     * [Premises 7](https://drive.google.com/file/d/17QD-xWMORwvNKV6gZhhFSOymRbuPCx5R/view?usp=sharing)
+  * [_metadata_](https://drive.google.com/drive/folders/17HL1gYyvW8oO2wiG5mDLct3lFGZcXune?usp=sharing)  
 
 ## **ILS data**
    * [all loads (50Hz and 4Hz)](https://uirabat-my.sharepoint.com/:f:/g/personal/aymane_ahajjam_uir_ac_ma/ErK9uq8SD11IgljlnxX61LoBVzUZwLd_lqgfWdAaCCGcCA?e=iQJZyC)
