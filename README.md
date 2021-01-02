@@ -17,6 +17,7 @@ MORED offers the following consumption data:
 
 For more information about the dataset, please refer to (and cite) the following paper:
 Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
+
 BIBTEX:
 > @article{Ahajjam_2020, title={MORED: A Moroccan Buildings’ Electricity Consumption Dataset}, volume={13}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en13246737}, DOI= {10.3390/en13246737}, number={24}, journal={Energies}, publisher={MDPI AG}, author={Ahajjam, Mohamed Aymane and Bonilla Licea, Daniel and Essayeh, Chaimaa and Ghogho, Mounir and Kobbane, Abdellatif}, year={2020}, month={Dec}, pages={6737}}
 
