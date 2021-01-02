@@ -21,9 +21,9 @@ MORED offers the following consumption data:
         border: 1px solid black;
         }
 </style>
-             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
-             | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-             Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
+XXX          | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
              | Aff/SDH    | .          | ✓          |    .       |        .   |         . |          .  | 
              | Dis/Apt    |        ✓   |          . |         ✓ |            |           |              |
              | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      |
