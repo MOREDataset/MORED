@@ -54,6 +54,7 @@ MORED offers the following consumption data:
 |Mean daily consumption (kW)   |      110   |     115    |    220   |     281    |     28    |    187  |   227|
 ## ILS data
 | Load | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Laboratory | #Brand | Consumption type | #Takes|
+| ---- | ----       | ----       | ----       | ----       | ----       | ----   | ----             | ----  |
 |Blender| 3| 3 |3 |3 |. |4 |FSM |1UI |40|
 |Hair dryer | 3 | 3 | . | 3 | . | 3 | FSM | 1UI | 30|
 |Laptop | 3 | . | . | . | . | 2 | CVD | 1UI | 21|
