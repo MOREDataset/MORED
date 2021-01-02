@@ -84,7 +84,7 @@ MORED offers the following consumption data:
 |Drill press | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Drilling machine | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
 |Fan heater | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
-|Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10|
+|Heat gun | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Immersion heater | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Impact drill | . | . | . | . | ✓ | 2 | CVD | 1UI |21|
 |Jigsaw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
