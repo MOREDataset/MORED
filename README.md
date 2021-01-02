@@ -92,12 +92,6 @@ MORED offers the following consumption data:
 |Paint curing lamp | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
 |Sling miter saw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Combined grinder & polisher | . | . | . | . | ✓ | 1 | CVD | 3UI | 10|
-# Reference
-For more information about the dataset, please refer to (and cite) the following paper:
-Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
-
-BIBTEX:
-> @article{Ahajjam_2020, title={MORED: A Moroccan Buildings’ Electricity Consumption Dataset}, volume={13}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en13246737}, DOI= {10.3390/en13246737}, number={24}, journal={Energies}, publisher={MDPI AG}, author={Ahajjam, Mohamed Aymane and Bonilla Licea, Daniel and Essayeh, Chaimaa and Ghogho, Mounir and Kobbane, Abdellatif}, year={2020}, month={Dec}, pages={6737}}
 
 # DOWNLOAD
 ## **WPILGT data**
@@ -127,3 +121,9 @@ BIBTEX:
 
 ## **ILS data**
    * [all loads (50Hz and 4Hz)](https://uirabat-my.sharepoint.com/:f:/g/personal/aymane_ahajjam_uir_ac_ma/ErK9uq8SD11IgljlnxX61LoBVzUZwLd_lqgfWdAaCCGcCA?e=iQJZyC)
+# Reference
+For more information about the dataset, please refer to (and cite) the following paper:
+Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
+
+BIBTEX:
+> @article{Ahajjam_2020, title={MORED: A Moroccan Buildings’ Electricity Consumption Dataset}, volume={13}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en13246737}, DOI= {10.3390/en13246737}, number={24}, journal={Energies}, publisher={MDPI AG}, author={Ahajjam, Mohamed Aymane and Bonilla Licea, Daniel and Essayeh, Chaimaa and Ghogho, Mounir and Kobbane, Abdellatif}, year={2020}, month={Dec}, pages={6737}}
