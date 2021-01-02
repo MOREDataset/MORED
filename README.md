@@ -10,12 +10,6 @@ During  spring  and  summer  of  2019  and  2020,  a  dataacquisition campaign w
   <img src="Image1.jpg" />
 </p>
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
 MORED offers the following consumption data:
 * Labelled WP and IL goround-truth electricity consumption
 * WP electricity consumption
@@ -23,6 +17,7 @@ MORED offers the following consumption data:
 
 # Details about acquired data
 ## WP and ILGT data
+
 |             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
 | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |**Premises**     | Affluent neighborhood apartment    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
@@ -41,7 +36,9 @@ MORED offers the following consumption data:
 |             | Mean daily consumption (kW)    | 110     | 115   |   220     |    281      |    280    |      295|
 |**IL ground-truth measurements** | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|
 |             | Total number of monitored Loads | 8      |3   |       3   |          4  |            7  |            3|
+
 ## WP data
+
 | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 | Premises 7 |
 | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Affluent neighborhood apartment     |      .     |        .   |          .  |   .       |      .     |        .    |         ✓ |
@@ -58,7 +55,9 @@ MORED offers the following consumption data:
 |Sampling rate (S/s) |                             1/10  |    1/10  |    1/10    |  1/10   |   1/10  |   1/5   |      1/5 |
 |Total duration (days) |   45    |      80  |        36  |   33    |      28     |     82    |       15|
 |Mean daily consumption (kW)   |      110   |     115    |    220   |     281    |     28    |    187  |   227|
+
 ## ILS data
+
 | Load | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Laboratory | #Brand | Consumption type | #Takes|
 | ---- | ----       | ----       | ----       | ----       | ----       | ----   | ----             | ----  |
 |Blender|  ✓| ✓ |✓ |✓ |. |4 |FSM |1UI |40|
