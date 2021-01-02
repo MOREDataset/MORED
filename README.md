@@ -82,7 +82,7 @@ MORED offers the following consumption data:
 |Band saw | . | . | . | . | ✓ | 1 | CVD | 1UI | |
 |Desktop computers | . | . | . | . | ✓ | 1 | CVD | 1UI| 1|
 |Drill press | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
-rilling machine | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
+|Drilling machine | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
 |Fan heater | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10|
 |Immersion heater | . | . | . | . | ✓ | 1 | CVD | 1 | 10|
