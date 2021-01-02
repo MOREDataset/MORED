@@ -55,42 +55,42 @@ MORED offers the following consumption data:
 ## ILS data
 | Load | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Laboratory | #Brand | Consumption type | #Takes|
 | ---- | ----       | ----       | ----       | ----       | ----       | ----   | ----             | ----  |
-|Blender| 3| 3 |3 |3 |. |4 |FSM |1UI |40|
-|Hair dryer | 3 | 3 | . | 3 | . | 3 | FSM | 1UI | 30|
-|Laptop | 3 | . | . | . | . | 2 | CVD | 1UI | 21|
-|Kettle | . | . | . | 3 | . | 1 | ON/OFF | 1UI | 10|
-|Hand mixer | . | . | . | 3 | . | 1 | FSM | 1UI | 10|
-|Stand mixer | . | . | . | 3 | . | 1 | FSM | 1UI | 10|
-|Toaster | . | . | . | 3 | . | 1 | ON/OFF | 1UI | 10|
-|Monitor |  3   |  .   |  .   |  .   |  .   |  1   |  CVD   |  1UI   |  10|
-|Panini grill | 3 | 3 | . | . | . | 2 | ON/OFF | 1UI | 20|
-|Refrigerator | 3 | 3 | 3 | . | . | 3 | CVD | 1UI | 31|
-|Space heater | 3 | . | . | . | . | 1 | ON/OFF | 1UI | 10|
-|Washing machine | 3 | . | 3 | . | . | 2 | CVD | 1UI | 21|
-|WIFI fiber adapter | 3 | . | . | . | . | 1 | ON/OFF | 1UI | 12|
-|WIFI modem | 3 | . | . | . | . | 1 | ON/OFF | 1UI | 10|
-|Curling brush | . | 3 | . | . | . | 1 | ON/OFF | 1UI | 10|
-|Hair curler | . | 3 | . | . | . | 1 | ON/OFF | 1UI | 10|
-|Hair straightener | . | 3 | . | . | . | 1 | ON/OFF | 1UI | 10|
-|Ironing machine | 3 | 3 | . | . | . | 2 | ON/OFF | 1UI | 20|
-|Oven | . | 3 | 3 | . | . | 2 | FSM | 1UI | 20|
-|Vacuum cleaner | . | 3 | . | . | . | 1 | ON/OFF | 1UI | 10|
-|Water heater | . | 3 | 3 | . | . | 2 | ON/OFF | 1UI | 20|
-|PS3 | . | . | 3 | . | . | 1 | CVD | 1UI | 10|
-|TV | . | . | 3 | . | . | 1 | CVD | 1UI | 10|
-|3D printer | . | . | . | . | 3 | 1 | CVD | 1UI | 10|
-|Band saw | . | . | . | . | 3 | 1 | CVD | 1UI || |
-|Desktop computers | . | . | . | . | 3 | 1 | CVD | 1UI| |1|
-|Drill press | . | . | . | . | 3 | 1 | CVD | 1UI || 10|
-rilling machine | . | . | . | . | 3 | 1 | CVD | |1UI 10|
-|Fan heater | . | . | . | . | 3 | 1 | CVD | 1UI | |10|Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10||
-|Immersion heater | . | . | . | . | 3 | 1 | CVD || 1 | 10|
-|Impact drill | . | . | . | . | 3 | 2 | CVD | 1U|I 21|
-|Jigsaw | . | . | . | . | 3 | 1 | CVD | 1UI | 10|||
-etal cutting saw | . | . | . | . | 3 | 1 | CVD | 1UI || 10|
-||int curing lamp | . | . | . | . | 3 | 1 | CVD | 1UI| |0||
-|Sling miter saw | . | . | . | . | 3 | 1 | CVD | 1UI || ||
-ombined grinder & polisher | . | . | . | . | 3 | 1 | CVD | 3UI | 10||
+|Blender|  ✓| ✓ |✓ |✓ |. |4 |FSM |1UI |40|
+|Hair dryer | ✓ | ✓ | . | ✓ | . | 3 | FSM | 1UI | 30|
+|Laptop | ✓ | . | . | . | . | 2 | CVD | 1UI | 21|
+|Kettle | . | . | . | ✓ | . | 1 | ON/OFF | 1UI | 10|
+|Hand mixer | . | . | . | ✓ | . | 1 | FSM | 1UI | 10|
+|Stand mixer | . | . | . | ✓ | . | 1 | FSM | 1UI | 10|
+|Toaster | . | . | . | ✓ | . | 1 | ON/OFF | 1UI | 10|
+|Monitor |  ✓   |  .   |  .   |  .   |  .   |  1   |  CVD   |  1UI   |  10|
+|Panini grill | ✓ | ✓ | . | . | . | 2 | ON/OFF | 1UI | 20|
+|Refrigerator | ✓ | ✓ | ✓ | . | . | 3 | CVD | 1UI | 31|
+|Space heater | ✓ | . | . | . | . | 1 | ON/OFF | 1UI | 10|
+|Washing machine | ✓ | . | ✓ | . | . | 2 | CVD | 1UI | 21|
+|WIFI fiber adapter | ✓ | . | . | . | . | 1 | ON/OFF | 1UI | 12|
+|WIFI modem | ✓ | . | . | . | . | 1 | ON/OFF | 1UI | 10|
+|Curling brush | . | ✓ | . | . | . | 1 | ON/OFF | 1UI | 10|
+|Hair curler | . | ✓ | . | . | . | 1 | ON/OFF | 1UI | 10|
+|Hair straightener | . | ✓ | . | . | . | 1 | ON/OFF | 1UI | 10|
+|Ironing machine | ✓ | ✓ | . | . | . | 2 | ON/OFF | 1UI | 20|
+|Oven | . | ✓ | ✓ | . | . | 2 | FSM | 1UI | 20|
+|Vacuum cleaner | . | ✓ | . | . | . | 1 | ON/OFF | 1UI | 10|
+|Water heater | . | ✓ | ✓ | . | . | 2 | ON/OFF | 1UI | 20|
+|PS3 | . | . | ✓ | . | . | 1 | CVD | 1UI | 10|
+|TV | . | . | ✓ | . | . | 1 | CVD | 1UI | 10|
+|3D printer | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
+|Band saw | . | . | . | . | ✓ | 1 | CVD | 1UI || |
+|Desktop computers | . | . | . | . | ✓ | 1 | CVD | 1UI| |1|
+|Drill press | . | . | . | . | ✓ | 1 | CVD | 1UI || 10|
+rilling machine | . | . | . | . | ✓ | 1 | CVD | |1UI 10|
+|Fan heater | . | . | . | . | ✓ | 1 | CVD | 1UI | |10|Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10||
+|Immersion heater | . | . | . | . | ✓ | 1 | CVD || 1 | 10|
+|Impact drill | . | . | . | . | ✓ | 2 | CVD | 1U|I 21|
+|Jigsaw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|||
+etal cutting saw | . | . | . | . | ✓ | 1 | CVD | 1UI || 10|
+||int curing lamp | . | . | . | . | ✓ | 1 | CVD | 1UI| |0||
+|Sling miter saw | . | . | . | . | ✓ | 1 | CVD | 1UI || ||
+ombined grinder & polisher | . | . | . | . | ✓ | 1 | CVD | 3UI | 10||
 ReferenceFor more information about the dataset, please refer to (and cite) the following paper:
 Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
 
