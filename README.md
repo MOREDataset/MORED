@@ -16,11 +16,11 @@ MORED offers the following consumption data:
 * IL signatures 
 
 # Details about acquired data
-| XXX        | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|Premises    | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
+|             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
+| ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
 |             | Aff/SDH    | .          | ✓          |    .       |        .   |         . |          .  | 
-|             | Dis/Apt    |        ✓   |          . |         ✓ |            |           |              |
+|             | Dis/Apt    |        ✓   |          . |         ✓ |     .      |    .       |   .        |
 |             | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      |
 |             | Number of occupants | 2         | 7        |  5   |     3  |   2         |     4         |
 |             | Number of elderly (>65) |  0   |    0   |     0    |       0    |     0    |          0  |
