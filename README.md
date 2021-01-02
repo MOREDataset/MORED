@@ -16,11 +16,12 @@ MORED offers the following consumption data:
 * IL signatures 
 
 # Details about acquired data
+## WP and ILGT data
 |             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
 | ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
-|             | Aff/SDH    | .          | ✓          |    .       |        .   |         . |          .  | 
-|             | Dis/Apt    |        ✓   |          . |         ✓ |     .      |    .       |   .        |
+|Premises     | Affluent neighborhood apartment    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
+|             | Affluent neighborhood semi-detached house    | .          | ✓          |    .       |        .   |         . |          .  | 
+|             | Disadvantaged neighborhood apartment    |        ✓   |          . |         ✓ |     .      |    .       |   .        |
 |             | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      |
 |             | Number of occupants | 2         | 7        |  5   |     3  |   2         |     4         |
 |             | Number of elderly (>65) |  0   |    0   |     0    |       0    |     0    |          0  |
@@ -34,6 +35,23 @@ MORED offers the following consumption data:
 |             | Mean daily consumption (kW)    | 110     | 115   |   220     |    281      |    280    |      295|
 |IL ground-truth measurements | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|
 |             | Total number of monitored Loads | 8      |3   |       3   |          4  |            7  |            3|
+## WP data
+|             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
+| ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Affluent neighborhood apartment     |      .     |        .   |          .  |   .       |      .     |        .    |         ✓ |
+| Affluent neighborhood semi-detached house      |     .      |       .    |         .    |         . |       .   |         ✓   |          .|
+| Disadvantaged neighborhood apartment      |      ✓    |          ✓  |            ✓ | ✓        |      ✓   |           .  | .   |
+|City of residence | Sale   |    Sale  |     Sale  |     Sale  |     Sale |     Sale |     Tetúan |
+|Number of occupants     | 2    |        3  |          8  |          4       |     2    |        2   |          3|
+|Number of elderly (>65)  | 0        |    0     |       0    |        0    | 2   |         0 |            0|
+|Number of adults (<65 and >18)      |    2   |         3  |          5   |         4   |         0   |        2   |          3|
+|Number of rooms  |5       |     5        |    5    |        5  |          5 |           5  |           3|
+|Number of floors  |1         |   1    |        1  |          1  | 1   |         2  |           1|
+|Area (m2)  | 50         | 50    |      50  |        50  |   50   |     100  |       103|
+|Ownership  | R      |      R   |         R   |         R  |      R       |    B   |          B|
+|Sampling rate (S/s) |                             1/10  |    1/10  |    1/10    |  1/10   |   1/10  |   1/5   |      1/5 |
+|Total duration (days) |   45    |      80  |        36  |   33    |      28     |     82    |       15|
+|Mean daily consumption (kW)   |      110   |     115    |    220   |     281    |     28    |    187  |   227|
 
 # References
 For more information about the dataset, please refer to (and cite) the following paper:
