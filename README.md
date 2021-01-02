@@ -18,7 +18,7 @@ MORED offers the following consumption data:
 # Details about acquired data
              | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
              | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
+             Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
              | Aff/SDH    | .          | ✓          |    .       |        .   |         . |          .  | 
              | Dis/Apt    |        ✓   |          . |         ✓ |            |           |              |
              | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      |
@@ -29,10 +29,10 @@ Premises     | Aff/Apt    | .          | .          | .          |   ✓        
              | Number of floors |  1     |     3       |   1         |    1   |   1   |       1 |
              | Area (m2)  |     50  |     100   |    70     |  103   | 100   |       103 |
              | Ownership  | R  |        B  |        R          |  B  |    R  | B |
-WP measurements | Sampling rate (S/s) | 1/5   |     1/5  | 1/5    |       1/5   |         1/5   |         1/5  | 
+             WP measurements | Sampling rate (S/s) | 1/5   |     1/5  | 1/5    |       1/5   |         1/5   |         1/5  | 
              | Total acquisition duration (days) |     24 |         14 |         80 |            60 |             44 |             40 | 
              | Mean daily consumption (kW)    | 110     | 115   |   220     |    281      |    280    |      295|
-IL ground-truth measurements | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|
+             IL ground-truth measurements | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|
              | Total number of monitored Loads | 8      |3   |       3   |          4  |            7  |            3|
 
 
