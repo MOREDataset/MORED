@@ -11,13 +11,9 @@ During  spring  and  summer  of  2019  and  2020,  a  dataacquisition campaign w
 </p>
 
 | Priority apples | Second priority | Third priority |
-
 |-------|--------|---------|
-
 | ambrosia | gala | red delicious |
-
 | pink lady | jazz | macintosh |
-
 | honeycrisp | granny smith | fuji |
 
 MORED offers the following consumption data:
