@@ -85,12 +85,12 @@ MORED offers the following consumption data:
 |Drilling machine | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
 |Fan heater | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10|
-|Immersion heater | . | . | . | . | ✓ | 1 | CVD | 1 | 10|
+|Immersion heater | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Impact drill | . | . | . | . | ✓ | 2 | CVD | 1UI |21|
 |Jigsaw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
-etal cutting saw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
-|Paint curing lamp | . | . | . | . | ✓ | 1 | CVD | 1UI| 0|
-|Sling miter saw | . | . | . | . | ✓ | 1 | CVD | 1UI |
+|Metal cutting saw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
+|Paint curing lamp | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
+|Sling miter saw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
 |Combined grinder & polisher | . | . | . | . | ✓ | 1 | CVD | 3UI | 10|
 # Reference
 For more information about the dataset, please refer to (and cite) the following paper:
