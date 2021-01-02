@@ -15,6 +15,28 @@ MORED offers the following consumption data:
 * WP electricity consumption
 * IL signatures 
 
+# Details about acquired data
+             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
+             | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+Premises     | Aff/Apt    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
+             | Aff/SDH    | .          | ✓          |    .       |        .   |         . |          .  | 
+             | Dis/Apt    |        ✓   |          . |         ✓ |            |           |              |
+             | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      |
+             | Number of occupants | 2         | 7        |  5   |     3  |   2         |     4         |
+             | Number of elderly (>65) |  0   |    0   |     0    |       0    |     0    |          0  |
+             | Number of adults (<65 and >18) |   2  |       4  |        4  |        3    |         2   |    3|
+             | Number of rooms  |     5  |          5  |          5  |             5  |     5   |     6 | 
+             | Number of floors |  1     |     3       |   1         |    1   |   1   |       1 |
+             | Area (m2)  |     50  |     100   |    70     |  103   | 100   |       103 |
+             | Ownership  | R  |        B  |        R          |  B  |    R  | B |
+WP measurements | Sampling rate (S/s) | 1/5   |     1/5  | 1/5    |       1/5   |         1/5   |         1/5  | 
+             | Total acquisition duration (days) |     24 |         14 |         80 |            60 |             44 |             40 | 
+             | Mean daily consumption (kW)    | 110     | 115   |   220     |    281      |    280    |      295|
+IL ground-truth measurements | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|
+             | Total number of monitored Loads | 8      |3   |       3   |          4  |            7  |            3|
+
+
+# References
 For more information about the dataset, please refer to (and cite) the following paper:
 Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
 
