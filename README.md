@@ -79,19 +79,21 @@ MORED offers the following consumption data:
 |PS3 | . | . | ✓ | . | . | 1 | CVD | 1UI | 10|
 |TV | . | . | ✓ | . | . | 1 | CVD | 1UI | 10|
 |3D printer | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
-|Band saw | . | . | . | . | ✓ | 1 | CVD | 1UI || |
-|Desktop computers | . | . | . | . | ✓ | 1 | CVD | 1UI| |1|
-|Drill press | . | . | . | . | ✓ | 1 | CVD | 1UI || 10|
-rilling machine | . | . | . | . | ✓ | 1 | CVD | |1UI 10|
-|Fan heater | . | . | . | . | ✓ | 1 | CVD | 1UI | |10|Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10||
-|Immersion heater | . | . | . | . | ✓ | 1 | CVD || 1 | 10|
-|Impact drill | . | . | . | . | ✓ | 2 | CVD | 1U|I 21|
-|Jigsaw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|||
-etal cutting saw | . | . | . | . | ✓ | 1 | CVD | 1UI || 10|
-||int curing lamp | . | . | . | . | ✓ | 1 | CVD | 1UI| |0||
-|Sling miter saw | . | . | . | . | ✓ | 1 | CVD | 1UI || ||
-ombined grinder & polisher | . | . | . | . | ✓ | 1 | CVD | 3UI | 10||
-ReferenceFor more information about the dataset, please refer to (and cite) the following paper:
+|Band saw | . | . | . | . | ✓ | 1 | CVD | 1UI | |
+|Desktop computers | . | . | . | . | ✓ | 1 | CVD | 1UI| 1|
+|Drill press | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
+rilling machine | . | . | . | . | ✓ | 1 | CVD | 1UI| 10|
+|Fan heater | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
+|Heat gun | . | . | . | . | 3 | 1 | CVD | 1UI | 10|
+|Immersion heater | . | . | . | . | ✓ | 1 | CVD | 1 | 10|
+|Impact drill | . | . | . | . | ✓ | 2 | CVD | 1UI |21|
+|Jigsaw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
+etal cutting saw | . | . | . | . | ✓ | 1 | CVD | 1UI | 10|
+|Paint curing lamp | . | . | . | . | ✓ | 1 | CVD | 1UI| 0|
+|Sling miter saw | . | . | . | . | ✓ | 1 | CVD | 1UI |
+|Combined grinder & polisher | . | . | . | . | ✓ | 1 | CVD | 3UI | 10|
+# Reference
+For more information about the dataset, please refer to (and cite) the following paper:
 Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A Moroccan Buildings’ Electricity Consumption Dataset.](https://doi.org/10.3390/en13246737) Energies 2020, 13, 6737.
 
 BIBTEX:
