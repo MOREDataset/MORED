@@ -136,4 +136,10 @@ BIBTEX:
 
 | | | |
 | --- | --- | --- |
-|![](LogoX-02.png) | ![](TICLab.png) | ![](UIR_logo.jpg)|
+|![](LogoX-02.png,width="100") | ![](TICLab.png,width="100") | ![](UIR_logo.jpg,width="100")|
+
+<p float="middle">
+  <img src="LogoX-02.png" width="100" />
+  <img src="TICLab.png" width="100" /> 
+  <img src="UIR_logo.jpg" width="100" />
+</p>
