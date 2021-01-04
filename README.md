@@ -135,6 +135,6 @@ BIBTEX:
 > @article{Ahajjam_2020, title={MORED: A Moroccan Buildings’ Electricity Consumption Dataset}, volume={13}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en13246737}, DOI= {10.3390/en13246737}, number={24}, journal={Energies}, publisher={MDPI AG}, author={Ahajjam, Mohamed Aymane and Bonilla Licea, Daniel and Essayeh, Chaimaa and Ghogho, Mounir and Kobbane, Abdellatif}, year={2020}, month={Dec}, pages={6737}}
 
 <h1 align="center">
- <img src="LogoX-02.png" width="200" align="middle"/> <img src="TICLab.png" width="200" align="middle"/> <img src="UIR_logo.jpg" width="150" align="middle"/>
+ <img src="LogoX-02.png" width="100" align="middle"/> <img src="TICLab.png" width="100" align="middle"/> <img src="UIR_logo.jpg" width="150" align="middle"/>
 </h1>  
 
