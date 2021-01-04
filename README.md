@@ -134,12 +134,12 @@ Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A
 BIBTEX:
 > @article{Ahajjam_2020, title={MORED: A Moroccan Buildings’ Electricity Consumption Dataset}, volume={13}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en13246737}, DOI= {10.3390/en13246737}, number={24}, journal={Energies}, publisher={MDPI AG}, author={Ahajjam, Mohamed Aymane and Bonilla Licea, Daniel and Essayeh, Chaimaa and Ghogho, Mounir and Kobbane, Abdellatif}, year={2020}, month={Dec}, pages={6737}}
 
-<p align="center">
+<p valign="start">
   <img src="LogoX-02.png" />
 </p>
-<p align="center">
+<p valign="middle">
   <img src="TICLab.png" />
 </p>
-<p align="center">
+<p valign="end">
   <img src="UIR_logo.jpg" />
 </p>
