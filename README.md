@@ -136,4 +136,4 @@ BIBTEX:
 
 | | | |
 | --- | --- | --- |
-|![](src="LogoX-02.png",width="100") | ![](src="TICLab.png",width="100") | ![](src="UIR_logo.jpg",width="100")|
+| <img src="LogoX-02.png" width="100"/> | <img src="TICLab.png" width="100"/> | <img src="UIR_logo.jpg" width="100"/>|
