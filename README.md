@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <img src="LogoX-02.png" width="250" align="middle"/> <img src="TICLab.png" width="250" align="middle"/> <img src="UIR_logo.jpg" width="210" align="middle"/>
+ <img src="LogoX-02.png" width="220" align="middle"/> <img src="TICLab.png" width="220" align="middle"/> <img src="UIR_logo.jpg" width="190" align="middle"/>
  <img src="Header1.jpg" />
 </h1>
 
