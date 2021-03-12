@@ -20,24 +20,24 @@ MORED offers the following consumption data:
 # Details about acquired data
 ## WP and ILGT data
 
-|             | Properties | Premises 1 | Premises 2 | Premises 3 | Premises 4 | Premises 5 | Premises 6 |
-| ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|**Premises**     | Affluent neighborhood apartment    | .          | .          | .          |   ✓        |         ✓ |          ✓ |
-|             | Affluent neighborhood semi-detached house    | .          | ✓          |    .       |        .   |         . |          .  | 
-|             | Disadvantaged neighborhood apartment    |        ✓   |          . |         ✓ |     .      |    .       |   .        |
-|             | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      |
-|             | Number of occupants | 2         | 7        |  5   |     3  |   2         |     4         |
-|             | Number of elderly (>65) |  0   |    0   |     0    |       0    |     0    |          0  |
-|             | Number of adults (<65 and >18) |   2  |       4  |        4  |        3    |         2   |    3|
-|             | Number of rooms  |     5  |          5  |          5  |             5  |     5   |     6 | 
-|             | Number of floors |  1     |     3       |   1         |    1   |   1   |       1 |
-|             | Area (m2)  |     50  |     100   |    70     |  103   | 100   |       103 |
-|             | Ownership  | R  |        B  |        R          |  B  |    R  | B |
-|**WP measurements** | Sampling rate (S/s) | 1/5   |     1/5  | 1/5    |       1/5   |         1/5   |         1/5  | 
-|             | Total acquisition duration (days) |     24 |         14 |         80 |            60 |             44 |             40 | 
-|             | Mean daily consumption (kW)    | 110     | 115   |   220     |    281      |    280    |      295|
-|**IL ground-truth measurements** | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|
-|             | Total number of monitored Loads | 8      |3   |       3   |          4  |            7  |            3|
+|             | Properties | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| ----------  | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+|**Premises**     | Affluent neighborhood apartment    | .          | .          | .          |   ✓        |         ✓ |          ✓ |          ✓ |
+|             | Affluent neighborhood semi-detached house    | .          | ✓          |    .       |        .   |         . |          .  |          .  |  
+|             | Disadvantaged neighborhood apartment    |        ✓   |          . |         ✓ |     .      |    .       |   .        |          .  | 
+|             | City       | Sale       | Sale       | Sale       | Tetúan     | Rabat     | Tetúan      | Tetúan      |
+|             | Number of occupants | 2         | 7        |  5   |     3  |   2         |     4         |     1         |
+|             | Number of elderly (>65) |  0   |    0   |     0    |       0    |     0    |          0  |          0  |
+|             | Number of adults (<65 and >18) |   2  |       4  |        4  |        3    |         2   |          3|          1|
+|             | Number of rooms  |     5  |          5  |          5  |             5  |     5   |     6 |     3 |  
+|             | Number of floors |  1     |     3       |   1         |    1   |   1   |       1 |       1 |
+|             | Area (m2)  |     50  |     100   |    70     |  103   | 100   |       103 |       103 |
+|             | Ownership  | R  |        B  |        R          |  B  |    R  | B | B |
+|**WP measurements** | Sampling rate (S/s) | 1/5   |     1/5  | 1/5    |       1/5   |         1/5   |         1/5  |         1/5  |  
+|             | Total acquisition duration (days) |     24 |         14 |         80 |            60 |             44 |             40 |             90 |  
+|             | Mean daily consumption (kW)    | 110     | 115   |   220     |    281      |    280    |      295|      206|
+|**IL ground-truth measurements** | Sampling rate (S/s) |1/5   |   1/5   |   1/5 | 1/5   |   1/5  |        1/5|        1/5|
+|             | Total number of monitored Loads | 8      |3   |       3   |          4  |            7  |            3|            2|
 
 ## WP data
 
@@ -111,6 +111,7 @@ MORED offers the following consumption data:
     * [Premises 4](https://drive.google.com/drive/folders/1VRsbqt2ho62IFW1PAfGASWvWEomfM12l?usp=sharing)
     * [Premises 5](https://drive.google.com/drive/folders/1jfJSoQrNkPHKF08UhJvUbn33A0cPpByF?usp=sharing)
     * [Premises 6](https://drive.google.com/drive/folders/1KSk8HO0wgxMvQxkfyY1Pf7NlRbnUSyvb?usp=sharing)
+    * [Premises 8](https://drive.google.com/drive/folders/1HMDZo8jD5cImA-7X6zui0o0Mv12F3fvK?usp=sharing)
   * [_metadata_](https://drive.google.com/drive/folders/1ylZD7F0xMY5DZSpDUPNXyx-cZSdbE43e?usp=sharing)
 
 ## **WP data**
