@@ -111,7 +111,7 @@ MORED offers the following consumption data:
     * [Premises 4](https://drive.google.com/drive/folders/1VRsbqt2ho62IFW1PAfGASWvWEomfM12l?usp=sharing)
     * [Premises 5](https://drive.google.com/drive/folders/1jfJSoQrNkPHKF08UhJvUbn33A0cPpByF?usp=sharing)
     * [Premises 6](https://drive.google.com/drive/folders/1KSk8HO0wgxMvQxkfyY1Pf7NlRbnUSyvb?usp=sharing)
-    * [Premises 8](https://drive.google.com/drive/folders/1HMDZo8jD5cImA-7X6zui0o0Mv12F3fvK?usp=sharing)
+    * [Premises 8](https://drive.google.com/drive/folders/1HMDZo8jD5cImA-7X6zui0o0Mv12F3fvK?usp=sharing)**<sup>`new`</sup>**
   * [_metadata_](https://drive.google.com/drive/folders/1ylZD7F0xMY5DZSpDUPNXyx-cZSdbE43e?usp=sharing)
 
 ## **WP data**
