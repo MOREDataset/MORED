@@ -5,7 +5,7 @@
 
 # Brief Description
 
-During  spring  and  summer  of  2019  and much of 2020, a data acquisition campaign was conducted to collect data reflecting the electricity consumption  of  different  urban  premises  in different Moroccan cities. MORED is the first open African dataset of buildings' electricity consumption. It contains labelled WP and IL ground-truth consumption data, labelled IL signatures, and WP consumption data of several Morccan households and Loads. The aim for providing such a dataset is to continue the progress that the field of energy disaggregation knew in the previous decade, by providing a dataset that has more data and utilises the field's recent advances.
+Since spring  of  2019, a data acquisition campaign is being conducted to collect data reflecting the electricity consumption  of  different  urban  premises  in different Moroccan cities. MORED is the first open African dataset of buildings' electricity consumption. It contains labelled WP and IL ground-truth consumption data, labelled IL signatures, and WP consumption data of several Morccan households and Loads. The aim for providing such a dataset is to continue the progress that the field of energy disaggregation knew in the previous decade, by providing a dataset that has more data and utilises the field's recent advances.
 
 <a href="https://youtu.be/KgUv0k4LbCA
 " target="_blank"><img src="Image1.jpg"
@@ -107,12 +107,15 @@ MORED offers the following consumption data:
     * [Premises 10](https://drive.google.com/drive/folders/12qkV7gFXmj6anjVuyd5BFbtsfhv2rmyH?usp=sharing)**<sup>`new`</sup>**
   * _Semi-Detached House in an affluent neighbourhood_
     * [Premises 2](https://drive.google.com/drive/folders/1KqjpGxbDYH_Qa24in1cXaFyihwhUl5y7?usp=sharing)
+    * [Premises 9*](https://drive.google.com/drive/folders/1KqjpGxbDYH_Qa24in1cXaFyihwhUl5y7?usp=sharing)**<sup>`new`</sup>**
   * _Apartment in an affluent neighbourhood_
     * [Premises 4](https://drive.google.com/drive/folders/1VRsbqt2ho62IFW1PAfGASWvWEomfM12l?usp=sharing)
     * [Premises 5](https://drive.google.com/drive/folders/1jfJSoQrNkPHKF08UhJvUbn33A0cPpByF?usp=sharing)
     * [Premises 6](https://drive.google.com/drive/folders/1KSk8HO0wgxMvQxkfyY1Pf7NlRbnUSyvb?usp=sharing)
     * [Premises 8](https://drive.google.com/drive/folders/1HMDZo8jD5cImA-7X6zui0o0Mv12F3fvK?usp=sharing)**<sup>`new`</sup>**
   * [_metadata_](https://drive.google.com/drive/folders/1ylZD7F0xMY5DZSpDUPNXyx-cZSdbE43e?usp=sharing)
+
+*: The data desciribing the whole-house electricity consumption of this household is not available.  
 
 ## **WP data**
   * _Apartment in a disadvantageous neighbourhood_
@@ -138,4 +141,4 @@ Ahajjam, M.A.; Bonilla Licea, D.; Essayeh, C.; Ghogho, M.; Kobbane, A. [MORED: A
 BIBTEX:
 > @article{Ahajjam_2020, title={MORED: A Moroccan Buildings’ Electricity Consumption Dataset}, volume={13}, ISSN={1996-1073}, url={http://dx.doi.org/10.3390/en13246737}, DOI= {10.3390/en13246737}, number={24}, journal={Energies}, publisher={MDPI AG}, author={Ahajjam, Mohamed Aymane and Bonilla Licea, Daniel and Essayeh, Chaimaa and Ghogho, Mounir and Kobbane, Abdellatif}, year={2020}, month={Dec}, pages={6737}}
 
-## :raised_hands: We appreciate all the Moroccan residents who have accepted us in their households and collaborated with us to collect MORED. THANK YOU! :raised_hands:
+## :raised_hands: We appreciate all the residents who have accepted us in their households and collaborated with us to collect MORED. THANK YOU! :raised_hands:
