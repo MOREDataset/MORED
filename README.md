@@ -104,6 +104,7 @@ MORED offers the following consumption data:
   * _Apartment in a disadvantageous neighbourhood_
     * [Premises 1](https://drive.google.com/drive/folders/1zWr04V7ep8GxawXsVvhh4MdIZwq5X_d7?usp=sharing)
     * [Premises 3](https://drive.google.com/drive/folders/1HaGMTDxbNj6zcs-ZGN06uXtWrteH0rGk?usp=sharing)
+    * [Premises 7](https://drive.google.com/drive/folders/14N0al7aUt3pxcO_GbM8CXc27DAAL0xEX?usp=sharing)**<sup>`new`</sup>**
     * [Premises 10](https://drive.google.com/drive/folders/12qkV7gFXmj6anjVuyd5BFbtsfhv2rmyH?usp=sharing)**<sup>`new`</sup>**
   * _Semi-Detached House in an affluent neighbourhood_
     * [Premises 2](https://drive.google.com/drive/folders/1KqjpGxbDYH_Qa24in1cXaFyihwhUl5y7?usp=sharing)
