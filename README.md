@@ -125,7 +125,7 @@ MORED offers the following consumption data:
     * [Premises 3](https://drive.google.com/file/d/1H8_IHfaVBkwfahQpqUzlHbbPLfDBMmhN/view?usp=sharing)
     * [Premises 4](https://drive.google.com/file/d/1niSxTd3dfrNKo9w4-S41XtU1_bF-br73/view?usp=sharing)
     * [Premises 5](https://drive.google.com/file/d/1J1Eu2VfMRNQKxOlRmF3FY6Z_ZjHcW5TW/view?usp=sharing)
-    * [Premises 8](https://drive.google.com/file/d/1OC9vEv-bknnaEzVSKxMKhagrsUBfNVAh/view?usp=sharing)
+    * [Premises 8](https://drive.google.com/file/d/1OC9vEv-bknnaEzVSKxMKhagrsUBfNVAh/view?usp=sharing)**<sup>`new`</sup>**
   * _Semi-Detached House in an affluent neighbourhood_
     * [Premises 6](https://drive.google.com/file/d/1ept4Kbbei_czsGdMwCbg59bS2biBlhlx/view?usp=sharing)
   * _Apartment in an affluent neighbourhood_
